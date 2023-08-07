@@ -8,7 +8,7 @@ with col1:
     
 with col2:
         st.title("Alex  Vic")
-        content = """Hey! , i am Alex a Python programmer from israel
+        content = """Hey! , i am Alex a Python Programmer from Israel, Tel Aviv
         """
         st.info(content)
         
